@@ -107,5 +107,3 @@
 
   <h2> Developed by :<b> Yash Anand </b> </h2> 
 
-</body>
-</html>
